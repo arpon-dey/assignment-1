@@ -1,0 +1,15 @@
+.banner {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.bannerImg {
+}
+.banner-title {
+  font-size: 60px;
+}
+.banner-button {
+  background-color: darkorange;
+  padding: 5px;
+  border: 0;
+}
