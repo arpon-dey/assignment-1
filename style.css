@@ -3,6 +3,26 @@ body {
   font-family: "Open Sans", sans-serif;
   font-family: "Poppins", sans-serif;
 }
+/* navbar section */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 200px;
+  background: linear-gradient(to bottom, #d4e3ff, #eac7ff);
+  margin-bottom: 10px;
+  border-radius: 20px;
+}
+.navbar h1 {
+  font-size: 30px;
+}
+.navitems {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  font-weight: 600;
+}
+/* banner section */
 .banner {
   background: #f4d873;
   display: flex;
