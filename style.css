@@ -48,3 +48,18 @@ body {
   font-weight: 700;
   font-size: 16px;
 }
+.instagram-title-description {
+  text-align: center;
+}
+.insta-title {
+  font-size: 35px;
+}
+.insta-img {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 20px 40px;
+  padding: 40px;
+}
+.insta-img img {
+  width: 300px;
+}
