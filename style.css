@@ -97,3 +97,15 @@ body {
   font-weight: 700;
   font-size: 16px;
 }
+.footer {
+  background-color: #3b3a3a;
+  color: white;
+  padding: 70px;
+  text-align: center;
+}
+.footer p {
+  color: rgb(205, 205, 205);
+}
+.footer span {
+  color: #e55473;
+}
