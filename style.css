@@ -21,6 +21,7 @@ body {
   align-items: center;
   gap: 25px;
   font-weight: 600;
+  font-size: 20px;
 }
 /* banner section */
 .banner {
@@ -48,6 +49,9 @@ body {
 }
 
 /* feature section */
+.feature {
+  margin: 80px 0;
+}
 
 .feature-img-section {
   display: flex;
@@ -92,7 +96,7 @@ body {
   align-items: center;
   padding: 40px 200px 0 200px;
   text-align: center;
-  margin-bottom: 20px;
+  margin: 80px 0;
 }
 .deal-title {
   font-size: 40px;
@@ -160,19 +164,11 @@ body {
   font-size: 16px;
 }
 
-/* footer section */
-.footer {
-  background-color: #3b3a3a;
-  color: white;
-  padding: 70px;
-  text-align: center;
+/* blog container */
+.blogs {
+  margin: 40px 0;
 }
-.footer p {
-  color: rgb(205, 205, 205);
-}
-.footer span {
-  color: #e55473;
-}
+
 .blog-container {
   display: flex;
   justify-content: center;
@@ -220,4 +216,18 @@ body {
   color: white;
   font-weight: 700;
   font-size: 16px;
+}
+
+/* footer section */
+.footer {
+  background-color: #3b3a3a;
+  color: white;
+  padding: 70px;
+  text-align: center;
+}
+.footer p {
+  color: rgb(205, 205, 205);
+}
+.footer span {
+  color: #e55473;
 }
