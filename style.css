@@ -63,3 +63,37 @@ body {
 .insta-img img {
   width: 300px;
 }
+.latest-deal-title-description {
+  text-align: center;
+}
+#latest-title {
+  font-size: 35px;
+}
+.latest-deal-section {
+  background-image: url("asset/Rectangle\ 9.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px;
+  margin: 80px 110px;
+}
+.input-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+}
+#email-input {
+  padding: 20px 280px 20px 20px;
+  border: 0;
+  border-radius: 10px;
+  background: #cde7e6;
+}
+#btn-submit {
+  background-color: darkorange;
+  padding: 20px 18px;
+  border: 0;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+}
