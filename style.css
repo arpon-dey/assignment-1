@@ -173,3 +173,51 @@ body {
 .footer span {
   color: #e55473;
 }
+.blog-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog {
+  width: 330px;
+  background: #cbd6da;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 40px;
+}
+.blog-title-and-description {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.blog-title-and-description h1 {
+  font-size: 35px;
+}
+
+.blog img {
+  height: 220px;
+  border-radius: 20px;
+}
+.blog1 {
+  background: #fee4a8;
+}
+.blog2 {
+  background: #c0e5f8;
+}
+.blog3 {
+  background: #cde7e6;
+}
+
+.blog p {
+  font-size: 20px;
+  text-align: left;
+  font-weight: 600;
+}
+.blog-btn {
+  background-color: darkorange;
+  padding: 12px 140px;
+  border: 0;
+  border-radius: 10px;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+}
